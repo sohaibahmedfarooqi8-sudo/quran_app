@@ -1,6 +1,9 @@
 # 📖 Quran App - Read Holy Quran Offline | Flutter Quran App
 
 A fast, clean, and free **Quran app built with Flutter** for reading the Holy Quran with Arabic text, translation, and easy Surah & Juz navigation. Works on **Android** and **iOS**.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 ## ✨ Screenshots
 
 <table>
