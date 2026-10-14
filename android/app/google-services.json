@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530578657929",
+    "project_id": "quran-for-life",
+    "storage_bucket": "quran-for-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530578657929:android:f201cca4988cc5db6dec58",
+        "android_client_info": {
+          "package_name": "com.Holy.Quranmajeed.Qiblafinder.Islamic.prayer.times"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYVodh2qv333wU8MvIAmGGPIDvLUOlp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530578657929:android:847e1083e23e3e4b6dec58",
+        "android_client_info": {
+          "package_name": "com.example.zabi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYVodh2qv333wU8MvIAmGGPIDvLUOlp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
